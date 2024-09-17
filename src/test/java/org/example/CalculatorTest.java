@@ -28,7 +28,7 @@ class CalculatorTest {
     }
 
     @org.junit.jupiter.api.Test
-    void add2() {
+    void addFail() {
         // Förväntat resultat
         int expected = 20;
 
