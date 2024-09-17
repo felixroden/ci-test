@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c36a2100-a6e8-4281-b716-2cfe8ee5fce0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34546167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32085755" />
       <window_info id="Commit" order="1" weight="0.34546167" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.3587637" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -90,7 +89,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.18871316" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.18871316" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33143938" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.18871316" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
@@ -126,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726563209394</updated>
-      <workItem from="1726563210589" duration="13326000" />
+      <workItem from="1726563210589" duration="14675000" />
     </task>
     <servers />
   </component>

@@ -10,6 +10,7 @@ on:
 
 jobs:
   build:
+    name: Build and Test Java Project  # Job name here
     runs-on: ubuntu-latest
 
     steps:
