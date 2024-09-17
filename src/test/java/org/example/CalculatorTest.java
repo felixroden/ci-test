@@ -26,4 +26,16 @@ class CalculatorTest {
         // Kontrollera att resultatet är korrekt
         assertEquals(expected, result, "add() metoden bör returnera summan av två tal");
     }
+
+    @org.junit.jupiter.api.Test
+    void add2() {
+        // Förväntat resultat
+        int expected = 20;
+
+        // Anropa add()-metoden
+        int result = calculator.add(num1, num2);
+
+        // Kontrollera att resultatet är korrekt
+        assertEquals(expected, result, "add() metoden bör returnera summan av två tal");
+    }
 }
