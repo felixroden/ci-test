@@ -22,11 +22,10 @@ class CalculatorTest {
         assertEquals(expected, result, "add() method should return the sum of two numbers");
     }
 
-//    @org.junit.jupiter.api.Test
-//    void testAddFail() {
-//        int expected = 20;
-//        int result = calculator.add(num1, num2);
-//        assertEquals(expected, result, "add() method should return the sum of two numbers");
-//    }
-
+    @org.junit.jupiter.api.Test
+    void testSubtract() {
+        int expected = 5;
+        int result = calculator.subtract(num1, num2);
+        assertEquals(expected, result, "subtract() method should return the difference between two numbers");
+    }
 }
