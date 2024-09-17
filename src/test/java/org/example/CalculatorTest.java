@@ -16,26 +16,17 @@ class CalculatorTest {
     }
 
     @org.junit.jupiter.api.Test
-    void add() {
-        // Förväntat resultat
+    void testAdd() {
         int expected = 15;
-
-        // Anropa add()-metoden
         int result = calculator.add(num1, num2);
-
-        // Kontrollera att resultatet är korrekt
-        assertEquals(expected, result, "add() metoden bör returnera summan av två tal");
+        assertEquals(expected, result, "add() method should return the sum of two numbers");
     }
 
     @org.junit.jupiter.api.Test
-    void addFail() {
-        // Förväntat resultat
+    void testAddFail() {
         int expected = 20;
-
-        // Anropa add()-metoden
         int result = calculator.add(num1, num2);
-
-        // Kontrollera att resultatet är korrekt
-        assertEquals(expected, result, "add() metoden bör returnera summan av två tal");
+        assertEquals(expected, result, "add() method should return the sum of two numbers");
     }
+
 }
