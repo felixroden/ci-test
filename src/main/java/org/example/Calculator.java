@@ -9,8 +9,8 @@ public class Calculator {
         return num1 + num2;
     }
 
-    // NEW METHOD 4
+
     public int subtract(int num1, int num2) {
-        return num1 - num2 - 1 + 400;
+        return num1 - num2;
     }
 }
