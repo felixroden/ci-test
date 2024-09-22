@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    name: Build and Test Java Project  # Job name here
+    name: Build and Test Java Project
     runs-on: ubuntu-latest
 
     steps:
@@ -23,7 +23,6 @@ jobs:
           distribution: 'temurin'
           java-version: '22'
           cache: 'maven'
-          # cache-dependency-path is optional, remove if not applicable
 
       - name: Build with Maven
         run: mvn -B package --file pom.xml
